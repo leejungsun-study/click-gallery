@@ -1,0 +1,17 @@
+#wrap {margin:0 auto;
+      width:700px;
+      padding:10px;
+      background-color: blanchedalmond;
+     text-align:center}
+
+button {padding:20px; font-size:20px;
+        margin-bottom: 25px;}  
+
+.box {border:1px solid red;
+         border-radius:10px;
+       padding:10px;
+      }  
+ .box>img { width:600px;}     
+      
+ .blue {color:blue;}  
+ .right {text-align: right;}   
